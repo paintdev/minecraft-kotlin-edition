@@ -1,3 +1,7 @@
+Made entirely by Claude (not code) 
+
+pbbbbbbbbbbbbrrrrrrrtttttttttttt (Sorry, I'm just so gassy today!)
+
 # Minecraft: Kotlin Edition
 
 A small 2D block-building sandbox written in Kotlin. It uses only the Kotlin
