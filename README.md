@@ -1,5 +1,3 @@
-Made by Claude (TM) trust meow fart bob poop
-
 # Minecraft: Kotlin Edition
 
 A small 2D block-building sandbox written in Kotlin. It uses only the Kotlin
